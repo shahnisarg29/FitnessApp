@@ -10,6 +10,9 @@ A full-stack fitness management application built with Django and React.
 ## Setup Instructions
 
 ### Backend Setup
+
+- Library Dependencies 
+pip install django djangorestframework psycopg2-binary python-decouple django-cors-headers
 (Coming soon)
 
 ### Frontend Setup
